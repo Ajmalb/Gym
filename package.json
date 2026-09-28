@@ -4,7 +4,6 @@
   "description": "Professional athletic gym, performance lab, and fitness club web application",
   "main": "index.html",
   "scripts": {
-    "build": "echo 'Static build ready'",
     "start": "python server.py",
     "serve": "npx serve ."
   },
